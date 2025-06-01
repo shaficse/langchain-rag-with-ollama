@@ -1,0 +1,29 @@
+Patient Name: Emily Davis
+Hospital Name: Green Valley Clinic
+Description of Sickness: Fever and cough, possible flu
+Doctor Name: Dr. Baker
+Total Cost to Pay: $300
+
+Patient Name: Jane Smith
+Hospital Name: Green Valley Clinic
+Description of Sickness: Stomach pain, suspected appendicitis
+Doctor Name: Dr. Davis
+Total Cost to Pay: $800
+
+Patient Name: Chris Brown
+Hospital Name: Green Valley Clinic
+Description of Sickness: Chest pain, possible heart condition
+Doctor Name: Dr. Adams
+Total Cost to Pay: $800
+
+Patient Name: Chris Brown
+Hospital Name: Metro General Hospital
+Description of Sickness: Stomach pain, suspected appendicitis
+Doctor Name: Dr. Baker
+Total Cost to Pay: $800
+
+Patient Name: Emily Davis
+Hospital Name: St. Mary's Hospital
+Description of Sickness: Chest pain, possible heart condition
+Doctor Name: Dr. Davis
+Total Cost to Pay: $1200
