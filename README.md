@@ -1,4 +1,4 @@
-# Project Title: LangChain + Ollama Integration
+# Langchain RAG with ollama Integration
 
 ## Overview
 
